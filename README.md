@@ -27,7 +27,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<h3 data-importer="text" align="left">Language and tools</h3>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h3 data-importer="text" align="left">Stats</h3>
 
 ###
 
@@ -53,7 +53,7 @@
   <img src="https://streak-stats.demolab.com?user=gustavodpacheco&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+---
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e57c0ca5-c162-43e7-b0dc-40f215c30321/dkj3upd-17541178-883a-47fe-bca2-dfdb87c6a806.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lNTdjMGNhNS1jMTYyLTQzZTctYjBkYy00MGYyMTVjMzAzMjEvZGtqM3VwZC0xNzU0MTE3OC04ODNhLTQ3ZmUtYmNhMi1kZmRiODdjNmE4MDYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1BW5zITJ8ZDo5XH3_CtdvWsWveDhloNfXqb_SArFBcA"  />
