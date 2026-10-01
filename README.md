@@ -4,11 +4,13 @@
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/gustavo-pacheco-a8b141440/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="logo do LinkedIn"  />
   </a>
   <a href="https://www.instagram.com/gstvpacheco/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="logo do Instagram"  />
   </a>
+  <br>
+  <a href="mailto:SEU-EMAIL@exemplo.com">📧 SEU-EMAIL@exemplo.com</a>
 </div>
 
 ###
@@ -26,16 +28,29 @@
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="logo do HTML5"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="logo do CSS3"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="logo do JavaScript"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="logo do Node.js"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="logo do Express"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="logo do Git"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="logo do GitHub"  />
 </div>
+
+###
+
+<h3 data-importer="text" align="left">Projetos</h3>
+
+###
+
+- **[AimBase-TCC](https://github.com/gustavodpacheco/AimBase-TCC)** — site com front-end em HTML, CSS e JavaScript puro, e back-end em Node.js com Express.
+- **[Lista-de-tarefas](https://github.com/gustavodpacheco/Lista-de-tarefas)** — aplicativo de lista de tarefas (em desenvolvimento).
 
 ###
 
@@ -44,17 +59,17 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=gustavodpacheco&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=gustavodpacheco&locale=pt_BR&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="gráfico de sequência de contribuições"  />
 </div>
 
 ###
 
-<p data-importer="text" align="left">Você não pode ser um homem ruim e esperar que coisas boas aconteçam com você.</p>
+<p data-importer="text" align="left">"Você não pode ser um homem ruim e esperar que coisas boas aconteçam com você."<br>— Arthur Morgan, Red Dead Redemption 2</p>
 
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="550" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/45a39ad6-75ea-41cf-88a4-219d0f65d5cf/dgeyq57-2bdf5737-020c-4468-b99c-b6c8cd24f9c1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi80NWEzOWFkNi03NWVhLTQxY2YtODhhNC0yMTlkMGY2NWQ1Y2YvZGdleXE1Ny0yYmRmNTczNy0wMjBjLTQ0NjgtYjk5Yy1iNmM4Y2QyNGY5YzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.P3bCLJvyVzLyuFw33RONkmRi7JWwFh-9k2rzWiqLMqM"  />
+  <img data-importer="image" height="350" src="assets/rdr2.gif" alt="GIF de Red Dead Redemption 2"  />
 </div>
 
 ###
