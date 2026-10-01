@@ -69,7 +69,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="350" src="assets/rdr2.gif" alt="GIF de Red Dead Redemption 2"  />
+  <img data-importer="image" height="350" src="rdr2.gif" alt="GIF de Red Dead Redemption 2"  />
 </div>
 
 ###
