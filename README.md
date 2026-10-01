@@ -10,7 +10,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="logo do Instagram"  />
   </a>
   <br>
-  <a href="mailto:SEU-EMAIL@exemplo.com">📧 SEU-EMAIL@exemplo.com</a>
+  <a href="mailto:caravanpretona@gmail.com">📧 caravanpretona@gmail.com</a>
 </div>
 
 ###
