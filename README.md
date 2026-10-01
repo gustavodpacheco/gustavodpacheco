@@ -77,3 +77,9 @@
 <p data-importer="text" align="left">Eu estou com medo.</p>
 
 ###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="350" src="rbr.jpg" alt="Bordado em ponto cruz de um carro de F1 da Red Bull pegando fogo"  />
+</div>
+
+###
