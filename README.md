@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">hey</h1>
+<h1 data-importer="text" align="center">Olá</h1>
 
 ###
 
@@ -13,21 +13,15 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=gustavodpacheco.gustavodpacheco&"  />
-</div>
+<h3 data-importer="text" align="left">Sobre mim</h3>
 
 ###
 
-<h3 data-importer="text" align="left">About Me</h3>
+<p data-importer="text" align="left">Sou o Gustavo, do Brasil.<br><br>🔭 Estou estudando Desenvolvimento de Sistemas.<br>📚 Atualmente estou aprendendo programação e desenvolvimento web.</p>
 
 ###
 
-<p data-importer="text" align="left">I'm Gustavo from Brazil.<br><br>🔭 I’m studying Systems Development.<br>📚 I'm currently learning programming and web development.</p>
-
-###
-
-<h3 data-importer="text" align="left">Language and tools</h3>
+<h3 data-importer="text" align="left">Linguagens e ferramentas</h3>
 
 ###
 
@@ -45,7 +39,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Stats</h3>
+<h3 data-importer="text" align="left">Estatísticas</h3>
 
 ###
 
@@ -53,10 +47,18 @@
   <img src="https://streak-stats.demolab.com?user=gustavodpacheco&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
----
+###
+
+<p data-importer="text" align="left">Eu estou com medo.</p>
+
+###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e57c0ca5-c162-43e7-b0dc-40f215c30321/dkj3upd-17541178-883a-47fe-bca2-dfdb87c6a806.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lNTdjMGNhNS1jMTYyLTQzZTctYjBkYy00MGYyMTVjMzAzMjEvZGtqM3VwZC0xNzU0MTE3OC04ODNhLTQ3ZmUtYmNhMi1kZmRiODdjNmE4MDYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1BW5zITJ8ZDo5XH3_CtdvWsWveDhloNfXqb_SArFBcA"  />
+  <img data-importer="image" height="550" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/45a39ad6-75ea-41cf-88a4-219d0f65d5cf/dgeyq57-2bdf5737-020c-4468-b99c-b6c8cd24f9c1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi80NWEzOWFkNi03NWVhLTQxY2YtODhhNC0yMTlkMGY2NWQ1Y2YvZGdleXE1Ny0yYmRmNTczNy0wMjBjLTQ0NjgtYjk5Yy1iNmM4Y2QyNGY5YzEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.P3bCLJvyVzLyuFw33RONkmRi7JWwFh-9k2rzWiqLMqM"  />
 </div>
+
+###
+
+<p data-importer="text" align="left">Você não pode ser um homem ruim e esperar que coisas boas aconteçam com você.</p>
 
 ###
