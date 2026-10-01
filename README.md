@@ -49,7 +49,7 @@
 
 ###
 
-<p data-importer="text" align="left">Eu estou com medo.</p>
+<p data-importer="text" align="left">Você não pode ser um homem ruim e esperar que coisas boas aconteçam com você.</p>
 
 ###
 
@@ -59,6 +59,6 @@
 
 ###
 
-<p data-importer="text" align="left">Você não pode ser um homem ruim e esperar que coisas boas aconteçam com você.</p>
+<p data-importer="text" align="left">Eu estou com medo.</p>
 
 ###
