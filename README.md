@@ -64,7 +64,7 @@
 
 ###
 
-<p data-importer="text" align="left">"Você não pode ser um homem ruim e esperar que coisas boas aconteçam com você."<br>— Arthur Morgan, Red Dead Redemption 2</p>
+<p data-importer="text" align="left">"Você não pode ser um homem ruim e esperar que coisas boas aconteçam com você."<br></p>
 
 ###
 
