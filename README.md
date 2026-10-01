@@ -74,6 +74,6 @@
 
 ###
 
-<p data-importer="text" align="left">Eu estou com medo.</p>
+<p data-importer="text" align="left">"Eu estou com medo."</p>
 
 ###
